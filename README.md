@@ -1,4 +1,4 @@
-# robust-ALOHA
+# robust-ALOHA (GPU version only)
 
 Sparse and Low-Rank Decomposition of a Hankel Structured Matrix for Impulse Noise Removal
 http://ieeexplore.ieee.org/abstract/document/8101510/<br />
